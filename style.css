@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.copyright{
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    text-align: center;
+    line-height:3 ;
+}
